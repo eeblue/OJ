@@ -2,7 +2,7 @@
 int prime(int sum);
 void selectNum(int no, int num, int sum);
 int a[22], n, k, amount = 0;
-void main()
+int main()
 {
     int i;
     // printf("Input n&k(1<=n<=20, k<n): ");
