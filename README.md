@@ -1,1 +1,1 @@
-ojojojojoj
+This is DoGUT Oj.
